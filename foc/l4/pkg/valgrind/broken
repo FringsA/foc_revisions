@@ -1,1 +1,0 @@
-Uses explicit gcc for linking, and is not compatible with l4-bender so far
