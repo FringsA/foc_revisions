@@ -1,3 +1,0 @@
-provides: libsigma0
-requires: l4sys
-Maintainer: warg@os.inf.tu-dresden.de

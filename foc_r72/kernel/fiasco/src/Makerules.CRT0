@@ -1,5 +1,0 @@
-# -*- makefile -*-
-
-# No special rules -- crt0.o can be build using implicit rules.
-
-clean-CRT0:

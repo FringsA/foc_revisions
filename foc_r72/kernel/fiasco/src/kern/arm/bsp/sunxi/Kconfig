@@ -1,4 +1,0 @@
-# PF: SUNXI
-# PFDESCR: Allwinner (sunxi)
-# PFSELECT: CAN_ARM_CPU_CORTEX_A7
-# PFDEPENDS: ARM

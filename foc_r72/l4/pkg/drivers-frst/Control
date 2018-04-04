@@ -1,3 +1,0 @@
-requires: libc
-provides: drivers-frst drivers_uart drivers_of libdrivers-nand
-Maintainer: adam@os.inf.tu-dresden.de
