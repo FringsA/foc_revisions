@@ -1,3 +1,0 @@
-requires: l4re cxx_util cxx_base
-provides: l4virtio l4virtio-server
-maintainer: alexander.warg@kernkonzept.com

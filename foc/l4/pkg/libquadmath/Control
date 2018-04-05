@@ -1,3 +1,0 @@
-provides: libquadmath
-requires: libc
-Maintainer: adam@l4re.org

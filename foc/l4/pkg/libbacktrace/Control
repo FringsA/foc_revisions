@@ -1,3 +1,0 @@
-provides: libbacktrace
-requires: libc
-maintainer: adam@os.inf.tu-dresden.de

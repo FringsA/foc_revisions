@@ -1,3 +1,0 @@
-provides: libio-direct
-requires: libc l4re l4util libsigma0 libio-vbus libsupc++_minimal
-maintainer: adam@os.inf.tu-dresden.de
